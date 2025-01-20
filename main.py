@@ -1,5 +1,5 @@
 import streamlit as st # Import python packages
-import snowflake
+
 import snowflake.core
 
 
