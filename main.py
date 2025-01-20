@@ -1,8 +1,7 @@
 import streamlit as st # Import python packages
 import snowflake
 import snowflake.core
-import snowflake-snowpark-python
-import snowflake-ml-python
+
 
 from snowflake.snowpark.context import get_active_session
 
